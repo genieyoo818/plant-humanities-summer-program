@@ -10,15 +10,8 @@ layout="vertical">
 
 ### Introduction
 
-This is a *filler paragraph*. **This is a filler paragraph**. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
-<param ve-image
-	   src="wc:Fragaria_vesca_(41503723130).jpg"
-	   caption="This is an image of a strawberry, also called *Fragaria x ananassa*.">
-<param ve-image
-	   src="wc:Strawberry_poison_dart_frog_(70539).jpg"
-	   caption="This is a strawberry poison dart frog.">
-<param ve-image
-	   src="wc:Strawberry_on_white_background.jpg"
-	   caption="This is a typical strawberry.">
+This is a *filler paragraph*. **This is a filler paragraph**. \[This is a filler paragraph\]. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+<param ve-iframe
+	   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vShf0BLafuLxiGlRPPodGpLiEJ68RGsC9PQsE_yJHb01MBrHSZE_Vii4gUke_Su90xoW_ADXe4leoii&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
 
